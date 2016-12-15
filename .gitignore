@@ -1,1 +1,3 @@
 data/
+ops_logs/
+*.pyc
