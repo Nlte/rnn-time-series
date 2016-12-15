@@ -1,3 +1,4 @@
 data/
 ops_logs/
 *.pyc
+.ipynb_checkpoints
